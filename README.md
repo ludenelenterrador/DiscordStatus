@@ -1,6 +1,6 @@
 # DiscordStatus
 
-Download Win64/32: https://github.com/ludenelenterrador/DiscordStatus/blob/master/dist/main.exe
+Download Win64/32: (https://luden.x10.mx/SetupDiscordStatus.exe)
 
 -------------------------------------------------------------------------------------------------------------------
 
