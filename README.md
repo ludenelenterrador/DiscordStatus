@@ -1,6 +1,6 @@
 # DiscordStatus
 
-Download Win64/32: (https://luden.x10.mx/SetupDiscordStatus.exe)
+Download Win64/32: [url](https://luden.x10.mx/SetupDiscordStatus.exe)
 
 -------------------------------------------------------------------------------------------------------------------
 
